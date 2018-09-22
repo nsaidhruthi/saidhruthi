@@ -1,3 +1,4 @@
+//voterlist
 package vote;
 class voteException extends Exception
 {
